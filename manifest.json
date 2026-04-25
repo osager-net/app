@@ -1,13 +1,13 @@
 {
   "name": "Osager — Твоя Страничка Блога",
   "short_name": "Osager",
-  "start_url": "/",
+  "start_url": "",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2c3e50",
   "icons": [
     {
-      "src": "/icons/android-chrome-120x120.png",
+      "src": "icons/android-chrome-120x120.png",
       "sizes": "120x120",
       "type": "image/png"
     }
