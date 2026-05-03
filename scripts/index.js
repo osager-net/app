@@ -10,9 +10,7 @@ if (deviceHeight > deviceWidth) {
          Твоя страничка блога
       </h1>
       <p>
-         Пожалуйста, перед использованием сайта ознакомьтесь с <a href="https://osager-net.github.io/app/instruction.html" style="
-           color: #FFFFFF;
-         ">
+         Пожалуйста, перед использованием сайта ознакомьтесь с <a href="https://osager-net.github.io/app/instruction.html" style="color: #FFFFFF;">
            его инструкцией
          </a>
          , а также используйте <a href="https://osager-net.github.io/app/forma.html" style="
