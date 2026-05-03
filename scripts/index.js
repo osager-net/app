@@ -3,7 +3,7 @@ const deviceHeight = window.innerHeight;
 const content = document.GetElementById('content');
 
 if (deviceHeight > deviceWidth) {
-  content.innerHTML = "
+  content.innerHTML = ’
     <!DOCTYPE html>
     <html lang="ru">
       <head>
@@ -96,4 +96,4 @@ if (deviceHeight > deviceWidth) {
         </p>
       </body>
     </html>
-  "
+  ’
